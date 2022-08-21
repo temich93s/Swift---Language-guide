@@ -1,7 +1,10 @@
 # Swift---Language-guide
 
-Изучал документацию по языку Swift.  
+Изучал переведенную swiftbook.ru документацию по языку Swift.  
 (https://swiftbook.ru/content/languageguide)
+
+## Мой конспект (PDF):
+- https://github.com/temich93s/Swift---Language-guide/blob/main/Swift%20Programming%20Language%20(Summary).pdf
 
 ## Изученные мной темы:
 - Базовые операторы (https://github.com/temich93s/BasicOperators) 
